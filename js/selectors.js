@@ -18,5 +18,5 @@ function divSelector() {
 }
 
 function firstListItem() {
-  $('div.pics ul #pic-list');
+  $('div.pics ul#pic-list ');
 }
