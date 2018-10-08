@@ -5,3 +5,6 @@ function paragraphSelector() {
   return ptag;
 }
 
+function lastImageSelector() {
+  last = $
+}
